@@ -33,13 +33,11 @@ Let's dive more into E-commerce and explore some of<b>the innovative and impactf
     <p>Shipping Methods are now more efficient and cover a wide range of countries and billing system are now available in multiple langage and are tailored to the regulations of different regions, making transactions smoother and more user friendly!</p>
   </li>
 </ul>
-
 Now, let's delve into the driving force behind the continuous evolution of this domain:
-
 <pre><p>The e-commerce industry is constantly evolving to enhance the user experience, making it <b>safer</b>, <b>more secure</b> and <b>more accessible</b>.
 Developers are at the forefront of this evolution, selecting the right technologies to reduce latency and improve performance. For instance, the React framework <b>Next.js</b> has gained popularity for its server-side rendering capabilities, which significantly improve the user experience by ensuring <b>faster load times</b>  and better data management.</p>
 
-<pre></pre><p>On the backend, technologies like <b>Elasticsearch</b> enable efficient searching through vast amounts of data by filtering based on various characteristics. 
+<pre><p>On the backend, technologies like <b>Elasticsearch</b> enable efficient searching through vast amounts of data by filtering based on various characteristics. 
 Additionally, tools like Solr, used by teams such as Rubix Group, offer robust data retrieval capabilities.
 Real-time data fetching and integration with Product Information Management (PIM) systems allow for efficient data handling, including bulk imports from CSV and XLSX files.</p>
 
