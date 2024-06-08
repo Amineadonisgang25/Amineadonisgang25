@@ -6,6 +6,15 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+# Welcome to [Mohamed Amine Zouari's](https://mohmaedaminezouari.me/) profile! <a href="https://www.mohamedaminezouari.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+
+<a href="https://www.linkedin.com/in/med-amine-zouari" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amine_zouari" height="30" width="40" /></a>
+&nbsp;
+<a href="https://www.instagram.com/medamine.zouari.1/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amine_zouari" height="30" width="40" /></a>
+&nbsp;
+<a href="https://www.facebook.com/medamine.zouari.1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
+&nbsp;
+
 Who am I? 
 I've accomplished my graduation degree in Computer Science Engineer since 2 years, I'm working now as a full Stack developer in e-commerce Fields.
 why I choose this field ? 
