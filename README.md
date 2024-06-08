@@ -15,16 +15,24 @@
 <a href="https://www.facebook.com/medamine.zouari.1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
 &nbsp;
 
+## Glad to see you here!
 Who am I? 
-I've accomplished my graduation degree in Computer Science Engineer since 2 years, I'm working now as a full Stack developer in e-commerce Fields.
-why I choose this field ? 
+I've accomplished my graduation degree in Computer Science Engineer since 2023, I'm working now as a full Stack developer in e-commerce Fields.
 
-E-commerce has promptly geared it's popularity thanks to the ease and the simplicity in changing the items and services throughout distinctive regions in the arena. 
-
-Let's dive more into E-commerce and explore some of the innovative and impactful features it offers today : 
-*Convenience and Accessibility : E-commerce eliminates the physical travel to store with just a click a customer can filter and search through numerous products to find exactly what they need, saving both time and effort.
-*Personalized Promotions and Advertising : While some view these as more marketing tactics, they actually provide customers with personalized recommendations that can be highly beneficial. The user experience is increasingly customizable, allowing customers to control what they see and interact with. 
-*Advanced Shipping and Billing Options : Shipping Methods are now more efficient and cover a wide range of countries and billing system are now available in multiple langage and are tailored to the regulations of different regions , making transactions smoother and more user friendly !  
+### why I choose this field ? 
+<p>E-commerce has promptly geared it's popularity thanks to the ease and the simplicity in changing the items and services throughout distinctive regions in the arena . </p> </br>
+Let's dive more into E-commerce and explore some of the innovative and impactful features it offers today : </br>
+<ul>
+  <li><h6 style=”color:#F00″>Convenience and Accessibility</h6>: 
+    <p>E-commerce eliminates the physical travel to store with just a click a customer can filter and search through numerous products to find exactly what they need, saving both time and effort.</p>
+  </li>
+  <li><h6 style=”color:#F00″>Personalized Promotions and Advertising</h6>:
+    <p>While some view these as more marketing tactics, they actually provide customers with personalized recommendations that can be highly beneficial. The user experience is increasingly customizable, allowing customers to control what they see and interact with. </p>
+  </li>
+  <li><h6 style=”color:#F00″>Advanced Shipping and Billing Options</h6>:
+    <p>Shipping Methods are now more efficient and cover a wide range of countries and billing system are now available in multiple langage and are tailored to the regulations of different regions , making transactions smoother and more user friendly!</p>
+  </li>
+</ul>
 
 Now, let's delve into the driving force behind the continuous evolution of this domain:
 
