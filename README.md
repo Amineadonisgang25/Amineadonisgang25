@@ -20,8 +20,8 @@ Who am I?
 I've accomplished my graduation degree in Computer Science Engineer since 2023, I'm working now as a full Stack developer in e-commerce Fields.
 
 ### why I choose this field ? 
-<p>E-commerce has promptly geared it's popularity thanks to the ease and the simplicity in changing the items and services throughout distinctive regions in the arena . </p> </br>
-Let's dive more into E-commerce and explore some of the innovative and impactful features it offers today :
+<p><b>E-commerce</b> has promptly geared it's popularity thanks to the ease and the simplicity in changing the items and services throughout distinctive regions in the arena . </p> </br>
+Let's dive more into E-commerce and explore some of <b>the innovative and impactful features</b>it offers today :
 <ul>
   <li><h6 style=”color:	#ff0000″>Convenience and Accessibility</h6>
     <p>E-commerce eliminates the physical travel to store with just a click a customer can filter and search through numerous products to find exactly what they need, saving both time and effort.</p>
@@ -43,4 +43,4 @@ Developers are at the forefront of this evolution, selecting the right technolog
 Additionally, tools like Solr, used by teams such as Rubix Group, offer robust data retrieval capabilities.
 Real-time data fetching and integration with Product Information Management (PIM) systems allow for efficient data handling, including bulk imports from CSV and XLSX files.</p>
 
-In conclusion, these examples illustrate the significant impact of e-commerce on our daily lives and highlight the ongoing challenges and opportunities for software engineers in this dynamic field.
+<b>In conclusion</b>, these examples illustrate the significant impact of e-commerce on our daily lives and highlight the ongoing challenges and opportunities for software engineers in this dynamic field.
