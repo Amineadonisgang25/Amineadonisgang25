@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amineadonisgang25 , 
-- 👀 I’m interested in coding , problem solving , learing new skills and face new challeneges.
+- 👀 I’m interested in coding , problem solving , learning new skills and face new challenges.
 - 🌱 I’m currently learning Next Js and try to improove my skills in Front end development,
-- 💞️ I’m looking to collaborate on many interested e-commerce projects, 
+- 💞️ I’m looking to collaborate on interested e-commerce projects, 
 - 📫 How to reach me : u could send me email on this Address : aminezouari2019@gmail.com . 
 
 # Welcome to [Mohamed Amine Zouari's](https://mohmaedaminezouari.me/) profile! <a href="https://www.mohamedaminezouari.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
