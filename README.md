@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Amineadonisgang25 , 
-- 👀 I’m interested in coding , problem solving , learning new skills and face new challenges.
-- 🌱 I’m currently learning Next Js and try to improove my skills in Front end development,
-- 💞️ I’m looking to collaborate on interested e-commerce projects, 
-- 📫 How to reach me : u could send me email on this Address : aminezouari2019@gmail.com . 
+- 👀 I’m interested in learning new skills, face new challenges, coding, and problem solving,
+- 🌱 I’m currently learning and practising NextJs,
+- 💞️ I’m looking to collaborate on interested E-commerce projects, 
+- 📫 How to reach me : U could send me email on this Address : aminezouari2019@gmail.com . 
 
 # Welcome to [Mohamed Amine Zouari's](https://mohmaedaminezouari.me/) profile! <a href="https://www.mohamedaminezouari.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
@@ -15,7 +15,7 @@
 
 ## Glad to see you here!
 ### Who am I? 
-<p>I've accomplished my graduation degree in Computer Science Engineer since 2023, I'm working now as a full Stack developer in e-commerce Fields.</p>
+<p>I've accomplished my graduation degree in Computer Science Engineer since 2023, I'm working now as a full Stack developer in E-commerce field.</p>
 
 ### why did I choose this field ? 
 <p><b>E-commerce</b> has promptly geared it's popularity thanks to the ease and the simplicity in changing the items and services throughout distinctive regions in the arena.</p>
@@ -32,14 +32,14 @@ Let's dive more into E-commerce and explore some of <b>the innovative and impact
   </li>
 </ul>
 Now, let's delve into the driving force behind the continuous evolution of this domain:
-  <p>The e-commerce industry is constantly evolving to enhance the user experience, making it <b>safer</b>, <b>more secure</b> and <b>more accessible</b>.
+  <p>The E-commerce industry is constantly evolving to enhance the user experience, making it <b>safer</b>, <b>more secure</b> and <b>more accessible</b>.
 Developers are at the forefront of this evolution, selecting the right technologies to reduce latency and improve performance. For instance, the React framework <b>Next.js</b> has gained popularity for its server-side rendering capabilities, which significantly improve the user experience by ensuring <b>faster load times</b>  and better data management.</p>
 
   <p>On the backend, technologies like <b>Elasticsearch</b> enable efficient searching through vast amounts of data by filtering based on various characteristics. 
 Additionally, tools like Solr, used by teams such as Rubix Group, offer robust data retrieval capabilities.
 Real-time data fetching and integration with Product Information Management (PIM) systems allow for efficient data handling, including bulk imports from CSV and XLSX files.</p>
 
-<b>In conclusion</b>, these examples illustrate the significant impact of e-commerce on our daily lives and highlight the ongoing challenges and opportunities for software engineers in this dynamic field.
+<b>In conclusion</b>, these examples illustrate the significant impact of E-commerce on our daily lives and highlight the ongoing challenges and opportunities for software engineers in this dynamic field.
 ## 🛠️ My Favourite tools
 
 ### 👨‍💻 Programming languages
